@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HernandezViewTool::Renderer.copyright('Pablo Hernandez', 'All rights reserved.')
+```
 
 ## Development
 
